@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args){
         FizzBuzz.newMain();
         System.out.println();
+        System.out.println();
         FizzBuzz.doFizzBuzz(6);
     }
 }
